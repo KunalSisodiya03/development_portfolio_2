@@ -1,1 +1,1 @@
-A hands-free virtual mouse controlled entirely by eye movement — built with Python, OpenCV, and MediaPipe. Tracks iris position to move the cursor, detects gaze direction for scrolling, and uses wink detection for left/right clicks.
+A hands-free virtual mouse controlled entirely by eye movement — built with Python, OpenCV, and MediaPipe. Tracks iris position to move the cursor, detects gaze direction for scrolling, and uses wink detection for left/right clicks
